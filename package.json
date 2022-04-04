@@ -11,16 +11,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
-  },
-  "keywords": [],
-  "author": "Jacobo Martinez",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
-  },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.4.0",
     "parcel": "^2.4.0",
